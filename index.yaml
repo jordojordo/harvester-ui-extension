@@ -21,7 +21,7 @@ entries:
     name: harvester
     type: application
     urls:
-    - assets/harvester-1.8.0.tgz
+    - assets/harvester/harvester-1.8.0.tgz
     version: 1.8.0
   - annotations:
       catalog.cattle.io/certified: rancher
